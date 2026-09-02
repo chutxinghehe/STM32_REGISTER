@@ -1,0 +1,12 @@
+# Keil MDK build output
+Listings/
+Objects/
+DebugConfig/
+
+# Keil user-specific config
+*.uvguix.*
+*.uvguix
+*.uvoptx
+*.uvopt
+*.bak
+*.dep
